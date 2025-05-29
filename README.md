@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -80,21 +79,17 @@
         <circle cx="0" cy="0" r="30" fill="#669d34" style="cursor: pointer;"/>
         <text x="0" y="5" font-size="15" fill="white" text-anchor="middle">JS</text>
       </g>
-      <!-- Полукруг C# сверху над CSS -->
       <g class="circle-btn" transform="translate(630, 151)" data-msg="Поздравляем с праздником от ИСТ-241! C# учит нас дисциплине и структуре — желаем тебе целеустремлённости, стабильности и продуктивности в каждой строке жизни!">
         <path d="M -30 0 A 30 30 0 0 1 30 0 L 0 0 Z" fill="#61187c" transform="rotate(180)" style="cursor: pointer;"/>
         <text x="-11" y="18" font-size="15" fill="white">C#</text>
       </g>
-      <!-- Полукруг Python справа от рамки -->
       <g class="circle-btn" transform="translate(749, 360)" data-msg="Поздравляем с праздником от ИСТ-241! Python всё упрощает — пусть в твоей жизни всё будет легко!">
         <path d="M 0 -30 A 30 30 0 0 1 0 30 L 0 0 Z" fill="#d2d202" transform="scale(-1,1)" style="cursor: pointer;"/>
         <text x="-13" y="5" font-size="13" fill="white" text-anchor="middle">Pyt</text>
       </g>
     </g>
-    <!-- Надпись внизу слева -->
     <text x="280" y="340" font-size="40" fill="white">С днём</text>
     <text x="280" y="390" font-size="52" fill="#00eaff">Программиста!</text>
-    <!-- Эффект матрицы -->
     <g id="binaryDigits" class="matrix-bg"></g>
   </svg>
   <div id="slider" class="slider-box"></div>
