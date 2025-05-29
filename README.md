@@ -63,7 +63,7 @@
 <body>
   <svg viewBox="0 0 1000 600" id="mainSVG">
     <rect x="250" y="150" width="500" height="300" rx="10" ry="10" fill="#123b5a" stroke="#00eaff" stroke-width="2" class="frame"/>
-    <a href="https://www.omgtu.ru/" target="_blank">
+    <a href="https://omgtu.ru/" target="_blank">
       <image href="omgtu.png" x="235" y="140" width="100" height="100"/>
     </a>
     <g id="circles">
